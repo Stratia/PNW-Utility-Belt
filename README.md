@@ -17,4 +17,5 @@ To get windows notification from this app your must activate "Get notfications f
 in Notification & actions, settings tab.
 
 Additionally to enable SMS notification you must enter the appropiate information in `twillio.JSON`
+
 Get Twillio Account credentials here: https://www.twilio.com/
