@@ -13,6 +13,14 @@ Planned Utilities:
 - Recruitment Bot
 ```
 
+
+Enter these commands individually in the command line to install dependancies 
+```
+ py -m pip install pynotifer
+ py -m pip install twilio
+ py -m pip install requests
+```
+
 To get windows notification from this app your must activate "Get notfications from apps and other senders"\
 in Notification & actions, settings tab.
 
