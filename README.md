@@ -11,6 +11,7 @@ Planned Utilities:
 ```
 - Time Automated Bank Transfers
 - Recruitment Bot
+- Embargo Spam
 ```
 
 
